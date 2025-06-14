@@ -13,7 +13,7 @@
 
 <hr/>
 
-## 👩🏻‍💻 About Me
+## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> About Me
 
 👩‍🎓 I'm a **Full Stack Web Developer** with experience in both frontend and backend development.  
 🔧 I've worked with technologies like **React**, **Node.js**, **Express**, and **PostgreSQL**, building features that integrate visual design with robust server-side logic.  
