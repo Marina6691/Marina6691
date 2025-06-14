@@ -30,9 +30,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,discord,express,figma,github,html,js,mysql,nodejs,postman,react,vite,vscode,wordpress,npm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,vite,figma,vscode&perline=9" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,git,github,postman,wordpress,npm&perline=9" />
   </a>
 </p>
+
 
 ---
 
